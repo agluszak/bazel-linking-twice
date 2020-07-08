@@ -1,0 +1,5 @@
+.ijwb
+bazel-bazel_linking_example
+bazel-bin
+bazel-out
+bazel-testlogs
